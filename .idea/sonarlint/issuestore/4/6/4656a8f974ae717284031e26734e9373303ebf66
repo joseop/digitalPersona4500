@@ -1,0 +1,14 @@
+
+]
+java:S1220""Move this file to a named package.8Øá³ú1J$e053db14-eb3f-4b8c-9a26-9bb85c83d2c0
+	java:S116"WRename this field "m_collection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¶•õûÿÿÿÿ8“Øá³ú1J$3120f886-5e4b-480f-b6cc-a02f027009eb
+•	java:S116"SRename this field "m_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¯£8”Øá³ú1J$5d7e3c0b-a70a-4241-aa52-cdae4b899af1
+£
+java:S1450"[Remove the "m_collection" field and declare it as a local variable in the relevant methods.(ú¶•õûÿÿÿÿ8–Øá³ú1J$c5d53c39-9021-4820-8ed7-04423b27f597
+š
+java:S1450"WRemove the "m_reader" field and declare it as a local variable in the relevant methods.(–¯£8–Øá³ú1J$a74490ce-428a-441b-bc2b-ac0ac80ca5e6
+v
+java:S1948".Make "m_collection" transient or serializable.(ú¶•õûÿÿÿÿ8˜Øá³ú1J$9c86f5b3-baa8-4eae-8d16-2cd986c59cdd
+m
+java:S1948"*Make "m_reader" transient or serializable.(–¯£8˜Øá³ú1J$17895244-62bc-4715-9293-4b132bb014be
+p	java:S108")Either remove or fill this block of code.(ÕÙ®ºüÿÿÿÿ8›Øá³ú1J$926ac696-5ef3-4d50-b073-ad7531b6ff7e

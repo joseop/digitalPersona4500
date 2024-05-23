@@ -1,0 +1,19 @@
+
+]
+java:S1220""Move this file to a named package.8À¿Ã³ú1J$9a690765-d087-4b66-b7a8-34f40f8b2aed
+Y
+java:S2589H"7Remove this expression which always evaluates to "true"(ì»Ê‚üÿÿÿÿ8¼˜ª´ú1
+r	java:S116"VRename this field "m_dlgParent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤Äİ8½˜ª´ú1
+p	java:S116"TRename this field "m_capture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑŠ8½˜ª´ú1
+o	java:S116"SRename this field "m_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¯£8½˜ª´ú1
+s	java:S116"RRename this field "m_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¦ßÄùÿÿÿÿ8½˜ª´ú1
+w
+java:S1450"ZRemove the "m_dlgParent" field and declare it as a local variable in the relevant methods.(·¤Äİ8Á˜ª´ú1
+H
+java:S1948"+Make "m_capture" transient or serializable.(îÑŠ8Â˜ª´ú1
+G
+java:S1948"*Make "m_reader" transient or serializable.(–¯£8Â˜ª´ú1
+G	java:S1064"+Replace this use of System.out by a logger.(ß›Çø8È˜ª´ú1
+L	java:S106C"+Replace this use of System.out by a logger.(õ¼‰Òùÿÿÿÿ8Ì˜ª´ú1
+F	java:S106X"+Replace this use of System.out by a logger.(ÇÙ¹8Í˜ª´ú1
+o	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œº‰–úÿÿÿÿ8Î˜ª´ú1

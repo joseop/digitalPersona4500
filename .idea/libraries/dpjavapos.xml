@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dpjavapos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/dpjavapos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/dpuareu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/jpos113.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/xercesImpl-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/DigitalPersona/U.are.U SDK/Windows/Lib/Java/xmlParserAPIs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ï›óâ8Ğ¨¡ú1J$87032a5c-b8c6-4079-93c0-9488875b110f
+q
+java:S3740 "/Provide the parametrized type for this generic.(–Ï8Ğ¨¡ú1J$c997c238-8d62-4364-a507-6854d8c8b5b6
+]
+java:S1220""Move this file to a named package.8Ğ¨¡ú1J$154d841a-d204-4578-9db7-fa834ffbf6c9
+	java:S116"WRename this field "m_collection" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¶•õûÿÿÿÿ8ß¨¡ú1J$56583425-9465-4daf-a62a-9f49968ab9a1
+š	java:S116"XRename this field "m_listReaders" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï›óâ8ß¨¡ú1J$e02a7cb1-a16d-4501-913a-3e494e2f5c43
+˜	java:S116"VRename this field "m_dlgParent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤Äİ8ß¨¡ú1J$cd795336-0984-4b7a-9849-8a06d8434ef0
+
+java:S1450"ZRemove the "m_dlgParent" field and declare it as a local variable in the relevant methods.(·¤Äİ8ï¨¡ú1J$58f050d7-b1ae-433e-8cdb-8ee8e4650c1e
+v
+java:S1948".Make "m_collection" transient or serializable.(ú¶•õûÿÿÿÿ8ï¨¡ú1J$b968e0ac-65d6-4b59-b541-1eaaad7a6183
+•	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ó•ÿÿÿÿÿ8ï¨¡ú1J$bcac7c04-8a0e-4b10-a552-d490e3a70cee

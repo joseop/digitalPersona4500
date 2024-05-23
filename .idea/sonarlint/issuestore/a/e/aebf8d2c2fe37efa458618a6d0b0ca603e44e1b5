@@ -1,0 +1,53 @@
+
+P
+java:S1141L"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141{"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+k	java:S116"VRename this field "m_dlgParent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤Äİ
+l
+java:S34573"Q%n should be used in place of \n to produce the platform-specific line separator.(Ô˜Ÿèùÿÿÿÿ
+l
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(ŒÁÖ»şÿÿÿÿ
+l
+java:S34577"Q%n should be used in place of \n to produce the platform-specific line separator.(ìùğ¦ÿÿÿÿÿ
+l
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(¨ƒõ‡ıÿÿÿÿ
+l
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(Ü‡Óóøÿÿÿÿ
+g
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(ÙÑ«£
+l
+java:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(¯ûè–ÿÿÿÿÿ
+g
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(ÈÏ’¢
+g
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(ø·ğú
+>	java:S108Z")Either remove or fill this block of code.(ºÑıé
+g
+java:S3457b"Q%n should be used in place of \n to produce the platform-specific line separator.(¸ß¦Æ
+f
+java:S3457d"Q%n should be used in place of \n to produce the platform-specific line separator.(¸›°f
+g
+java:S3457f"Q%n should be used in place of \n to produce the platform-specific line separator.(™ù¸ä
+l
+java:S3457h"Q%n should be used in place of \n to produce the platform-specific line separator.(™ø’ıÿÿÿÿ
+l
+java:S3457j"Q%n should be used in place of \n to produce the platform-specific line separator.(ï˜ºãÿÿÿÿÿ
+f
+java:S3457l"Q%n should be used in place of \n to produce the platform-specific line separator.(ĞŸ¬O
+l
+java:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(„Œ«Éşÿÿÿÿ
+l
+java:S3457p"Q%n should be used in place of \n to produce the platform-specific line separator.(Ÿòûîøÿÿÿÿ
+l
+java:S3457r"Q%n should be used in place of \n to produce the platform-specific line separator.(Ìš§ıùÿÿÿÿ
+l
+java:S3457t"Q%n should be used in place of \n to produce the platform-specific line separator.(šåª„ûÿÿÿÿ
+g
+java:S3457w"Q%n should be used in place of \n to produce the platform-specific line separator.(îôØ
+g
+java:S3457~"Q%n should be used in place of \n to produce the platform-specific line separator.(§‡×
+?	java:S108‚")Either remove or fill this block of code.(ºÑıé
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ú†ıÿÿÿÿ

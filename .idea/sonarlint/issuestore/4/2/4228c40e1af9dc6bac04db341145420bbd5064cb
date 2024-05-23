@@ -1,0 +1,22 @@
+
+`
+java:S6208:"CMerge the previous cases into this one using comma-separated label.(—”Í8­Ö†´ú1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á•Ó½üÿÿÿÿ8¯Ö†´ú1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á•Ó½üÿÿÿÿ8¯Ö†´ú1
+V
+java:S1220""Move this file to a named package.J$b13e5ed4-b5b6-4605-bb88-c780adec3050
+p	java:S116"URename this field "m_listener" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÄğ8ÂÖ†´ú1
+p	java:S116"TRename this field "m_bCancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Óïû8ÂÖ†´ú1
+o	java:S116"SRename this field "m_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÔïÙ8ÂÖ†´ú1
+t	java:S116"SRename this field "m_format" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¨Ñ°üÿÿÿÿ8ÂÖ†´ú1
+m	java:S116"QRename this field "m_proc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Àœë8ÂÖ†´ú1
+z	java:S116"YRename this field "capture_result" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‹¸Ãıÿÿÿÿ8ÅÖ†´ú1
+t	java:S116"XRename this field "reader_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ääş¦8ÅÖ†´ú1
+R
+java:S1948"0Make "capture_result" transient or serializable.(Ÿ‹¸Ãıÿÿÿÿ8ÆÖ†´ú1
+L
+java:S1948"/Make "reader_status" transient or serializable.(ääş¦8ÆÖ†´ú1
+{
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÈÖ†´ú1
+{
+java:S2142V"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÓÖ†´ú1

@@ -1,0 +1,35 @@
+
+k	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢èîöúÿÿÿÿ
+e	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–D
+0
+java:S1220""Move this file to a named package.
+[
+java:S2184v"@Cast one of the operands of this integer division to a "double".(ÜÅ¹èüÿÿÿÿ
+i	java:S116"TRename this field "m_capture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÑŠ
+h	java:S116"SRename this field "m_reader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¯£
+k	java:S116"QRename this field "m_fmds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­•ÿÿÿÿÿ
+k	java:S116"VRename this field "m_dlgParent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤Äİ
+k	java:S116"QRename this field "m_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ãĞüÿÿÿÿ
+k	java:S116"WRename this field "m_strPrompt1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛğÍG
+q	java:S116"WRename this field "m_strPrompt2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ş…°ùÿÿÿÿ
+6
+java:S1170"!Make this final field static too.(ÛğÍG
+<
+java:S1170"!Make this final field static too.(©Ş…°ùÿÿÿÿ
+A
+java:S1948"+Make "m_capture" transient or serializable.(îÑŠ
+@
+java:S1948"*Make "m_reader" transient or serializable.(–¯£
+C
+java:S1948"(Make "m_fmds" transient or serializable.(å­•ÿÿÿÿÿ
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‹ÒÈ
+h	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ½öüÿÿÿÿ
+c	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥€Âª
+h	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“êıùÿÿÿÿ
+m
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“êıùÿÿÿÿ
+g
+java:S3457t"Q%n should be used in place of \n to produce the platform-specific line separator.(©¢Á
+l
+java:S3457v"Q%n should be used in place of \n to produce the platform-specific line separator.(ÜÅ¹èüÿÿÿÿ
+i	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œº‰–úÿÿÿÿ
